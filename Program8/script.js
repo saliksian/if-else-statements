@@ -1,4 +1,4 @@
-function alphaBet() {
+function vowelOrNot() {
   var dom = document;
   var char = dom.getElementById("char");
   var char1 = char.value
